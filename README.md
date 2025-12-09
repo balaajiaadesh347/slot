@@ -133,6 +133,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+<img width="1888" height="957" alt="image" src="https://github.com/user-attachments/assets/55c25d4d-2eda-41cc-90ab-a0931022c9ca" />
+
 
 
 ## RESULT
