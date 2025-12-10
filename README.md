@@ -35,7 +35,7 @@ Execute the program using runserver command.
      <center> 
      <img src="logo.png" height="150" width="800">
      </center>
-      <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( ROLL NO. ) </h3>
+      <h3 align="center">  SLOT TIME TABLE - STUDENT NAME:A.S.BALAAJI AADESH ( ROLL NO.25012580 ) </h3>
         <table align="center" border="5" cellpadding="6" cellspacing="2" bgcolor="cyan">
         <tr>
           <th bgcolor="yellow">Day</th>    
